@@ -70,5 +70,19 @@ public class JavaDataTypes {
 //		while non-primitive types typically starts with an uppercase letter (like String).
 //		- Primitive types always hold a value, whereas non-primitive types can be null.
 
+
+
+
+//		TYPE CASTING :
+//		1. widening casting or implicit conversion : it is done automatically
+//		byte -> short -> char -> int -> long -> float -> double
+//
+//		2. Narrowing casting or manual conversion : it is done manually
+//		double -> float -> long -> int -> char -> short -> byte
+
+		float a = 10.25f ;
+		System.out.println(a);
+		int c = (int)a ;
+		System.out.println(b);
 	}
 }
