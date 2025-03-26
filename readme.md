@@ -10,3 +10,4 @@
 - Methods
 - Conditional Statements
 - Loops
+- Arrays
