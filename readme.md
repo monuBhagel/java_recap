@@ -24,3 +24,9 @@
 - Enums
 - User input taking
 - date time module
+- ArrayList
+- LinkedList
+- HashMap
+- HashSet
+- Iterator
+- 
