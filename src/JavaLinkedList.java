@@ -91,7 +91,7 @@ public class JavaLinkedList {
 		Collections.sort(numbers); // in ascending order
 		System.out.println(numbers);
 
-		Collections.sort(numbers, Collections.reverseOrder()); // in descending order
+		numbers.sort(Collections.reverseOrder()); // in descending order
 		System.out.println(numbers);
 
 
