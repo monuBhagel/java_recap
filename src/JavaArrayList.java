@@ -28,7 +28,7 @@
 
  */
 
-import java.lang.reflect.Type;
+
 import java.util.ArrayList ;
 import java.util.Collections;
 
@@ -37,7 +37,7 @@ public class JavaArrayList {
 	public static void main(String [] args) {
 
 //		Create an ArrayList object
-		ArrayList<String> fruits = new ArrayList<String>() ;
+		ArrayList<String> fruits = new ArrayList<>() ;
 
 		System.out.println(fruits.getClass().getName());
 
@@ -89,7 +89,7 @@ public class JavaArrayList {
 
 //		making an array list for integer type:
 
-		ArrayList<Integer> numbers = new ArrayList<Integer>() ;
+		ArrayList<Integer> numbers = new ArrayList<>() ;
 		numbers.add(1) ;
 		numbers.add(11) ;
 		numbers.add(4) ;
@@ -97,7 +97,7 @@ public class JavaArrayList {
 
 		System.out.println(numbers);
 
-//		sorting a arraylist : - we can do this using .sort method but to do so we need a comparator
+//		sorting an arraylist : - we can do this using .sort method but to do so we need a comparator
 //						- or we can use the collection class ' s sort method.
 
 		Collections.sort(numbers) ;
