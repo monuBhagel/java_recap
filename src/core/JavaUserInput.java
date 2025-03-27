@@ -1,4 +1,4 @@
-/*
+package core;/*
 - The Scanner class is used to get user input, and it is found in the java.util package.
 - we can use the following method of scanner class
 	- nextLine()	: Reads a String value from the user

@@ -1,4 +1,4 @@
-/*
+package dataStructure;/*
 - In Java, a HashMap is a part of the java.util package and implements the Map interface.
 - It stores key-value pairs and allows fast retrieval, insertion, and deletion operations.
 - The keys are unique and each key refer to exactly one value.

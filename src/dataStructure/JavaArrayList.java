@@ -1,4 +1,4 @@
-/*
+package dataStructure;/*
 - The Arraylist class is the resizable array , it is found in the java.util package.
 - The elements in the Arraylist are actually the objects .
 

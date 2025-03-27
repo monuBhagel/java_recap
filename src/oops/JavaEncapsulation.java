@@ -1,4 +1,4 @@
-//The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users.
+package oops;//The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users.
 // we can achieve this by - declaring private attributes & provide public get and set methods to access
 // and update the value of a private variable
 

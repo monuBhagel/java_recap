@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class JavaArray {
 	public static void main(String[] args){
 

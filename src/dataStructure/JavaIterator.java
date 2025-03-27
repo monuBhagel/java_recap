@@ -1,4 +1,4 @@
-/*
+package dataStructure;/*
 - In Java, an Iterator is an object that allows you to traverse through the elements of a collection,
  	such as a List, Set, or Queue
 - It provides a way to access each element in the collection sequentially without exposing the underlying structure.

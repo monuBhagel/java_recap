@@ -1,3 +1,5 @@
+package core;
+
 public class JavaSyntaxAndComments {
     public static void main(String[] args){
         System.out.println("hello world "+ "current file is java syntax");

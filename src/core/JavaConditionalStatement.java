@@ -1,3 +1,5 @@
+package core;
+
 public class JavaConditionalStatement {
 	public static void main(String[] args){
 

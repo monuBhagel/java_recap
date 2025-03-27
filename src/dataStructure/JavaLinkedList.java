@@ -1,4 +1,4 @@
-/*
+package dataStructure;/*
 - In java . the linked list class is almost identical to arraylist . as they both inference list interface.
 - The difference is behind teh working .
 

@@ -1,4 +1,4 @@
-//	create a class named fruits
+package oops;//	create a class named fruits
 //	to create a class use a keyword "class"
 
 class fruits{

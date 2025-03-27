@@ -1,9 +1,34 @@
-public interface JavaInterface {
+package oops;
 
-	public void animalSound();
-	public void sleep();
+class animal implements JavaInterface{
+
+	@Override
+	public void animalSound() {
+		System.out.println("this is overridden method of interface ");
+	}
+
+	@Override
+	public void sleep() {
+		System.out.println("this is also");
+
+	}
+
+	public void eat(){
+		System.out.println("this is a method of regular class");
+	}
 }
 
+public class Interface {
+
+	public static void main(String[] args){
+		animal obj = new animal();
+
+		obj.animalSound(); // interface method
+		obj.sleep();
+		obj.eat(); // regular method
+	}
+
+}
 
 /*
 important points to note:
@@ -24,4 +49,3 @@ Why And When To Use Interfaces ?
 	To implement multiple interfaces, separate them with a comma
 
  */
-

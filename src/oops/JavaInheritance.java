@@ -1,4 +1,4 @@
-/*
+package oops;/*
 - In java it is possible to inherit properties of a class into another class this concept of sharing is called
 inheritance.
 - the common terms used in inheritance :

@@ -1,4 +1,4 @@
-// class with constructor :
+package oops;// class with constructor :
 
 class PersonalDetail{
 

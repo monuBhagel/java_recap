@@ -1,4 +1,4 @@
-/*
+package dataStructure;/*
 - In Java, a HashSet is part of the java.util package and implements the Set interface.
 - A HashSet is a collection that does not allow duplicate elements and does not guarantee any specific order of elements.
 - It is backed by a hash table, which provides constant time performance for most operations,

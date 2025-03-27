@@ -1,3 +1,5 @@
+package core;
+
 public class JavaMethod {
 	/*
 	- in java , method is a block of code that preform a specific task.
